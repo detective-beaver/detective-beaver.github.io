@@ -23,5 +23,7 @@ On the top of this, there are some official ways to get a real picture of your a
 System would allow only people with a Canadian phone number to call in using the following toll-free number: 
 ```1–888–242–2100```
 2. GCMS Notes\
-They can be ordered from the IRCC directly or via a third-party agency. If you will decide to use the last one, a special form needs to be filled allowing to share your data.
-For immigrants located in Canada the easiest and cheapest way would be to order GCMS notes from the IRCC directly. Outlanders are not allowed to order notes from the IRCC.
+They can be ordered from the IRCC [directly](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/access-information-privacy/requests-information-act.html) or via a third-party agency. If you will decide to use the last one, a special form (IMM5744) needs to be filled.
+For immigrants located in Canada the easiest and cheapest way would be to order GCMS notes from the IRCC directly. Please keep in mind that outlanders are not permited to order notes from the IRCC.
+As for the price, it is going to cost you 5 CAD one time fee.
+According to the ATIP Act, IRCC has 30 days to fulfill a GCMS Notes request which means your notes will contain the information which is 30 days away from the moment you get them.
