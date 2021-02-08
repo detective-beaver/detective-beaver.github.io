@@ -7,7 +7,7 @@ tags:
 - Application Tracking
 - CEC 
 ---
-*John Doe: "Today I logged into my EE profile and saw zero changes after 7 months of wait."*
+*John Doe: "Today I logged into my EE profile and saw zero changes after 7 months of waiting."*
 
 We got you John Doe - it happended to almost each of us.
 Every year Express Entry applicants come accross the fact that it is almost impossible to understand the real state of their express entry application after it was submitted. Here I'll try to list for your all the useful internet resources that can be handy:
