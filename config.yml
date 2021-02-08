@@ -4,6 +4,7 @@ title: Detective Beaver tells stories
 paginate: 5
 theme: PaperMod
 disqusShortname: detective-beaver-github-io
+enableEmoji: true
 
 minify:
     disableXML: true
