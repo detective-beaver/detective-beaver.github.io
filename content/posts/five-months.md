@@ -17,5 +17,5 @@ These should discourage non-essential travel on a new level asking people return
 
 Although some people try their luck by flying to Canada and attempting to land, consequences from breaking the law are simply not worth it - no one wants to loose their well deserved PR.
 
-Now is simly not a right time to travel:
+Now is simply not a right time to travel:
 {{< tweet 1353075491771584514 >}}
