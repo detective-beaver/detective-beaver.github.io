@@ -3,7 +3,7 @@ languageCode: en-us
 title: Detective Beaver tells stories
 paginate: 5
 theme: PaperMod
-disqusShortname: DetectiveBeaverModerator
+disqusShortname: detective-beaver-github-io
 
 minify:
     disableXML: true
