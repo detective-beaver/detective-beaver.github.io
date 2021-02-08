@@ -1,0 +1,59 @@
+baseURL: "https://detective-beaver.github.io/"
+languageCode: en-us
+title: Detective Beaver tells stories
+paginate: 5
+theme: PaperMod
+disqusShortname: DetectiveBeaverModerator
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+menu:
+    main:
+      - name: Tags
+        url: tags/
+        weight: 10
+
+params:
+    env: production
+    author: Detective Beaver
+    ShowShareButtons: true
+    ShowReadingTime: true
+    comments: true
+    defaultTheme: auto
+    homeInfoParams:
+        Title: Express Entry Diaries
+        Content: "Warm welcome Everyone\U0001F44B. Our personal stories regarding immigration to Canada \U0001F1E8\U0001F1E6 are told here. Grab yourself a cup of hot drink and enjoy the content!"
+
+    socialIcons: # optional
+        - name: twitter
+          url: "https://twitter.com/iGrushevskiy"
+        - name: youtube
+          url: "https://www.youtube.com/channel/UCqE3y80UmTXilUjOhJubmUw"
+
+privacy:
+    vimeo:
+        disabled: false
+        simple: true
+
+    twitter:
+        disabled: false
+        enableDNT: true
+        simple: true
+
+    instagram:
+        disabled: false
+        simple: true
+
+    youtube:
+        disabled: false
+        privacyEnhanced: true
+
+services:
+    vimeo:
+        disableInlineCSS: true
+    instagram:
+        disableInlineCSS: true
+    twitter:
+        disableInlineCSS: true
