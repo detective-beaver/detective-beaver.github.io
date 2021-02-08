@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Detective Beaver tells stories</title>
+    <link>https://detective-beaver.github.io/</link>
+    <description>Recent content on Detective Beaver tells stories</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Feb 2021 17:42:33 +0200</lastBuildDate><atom:link href="https://detective-beaver.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5 months after AOR</title>
+      <link>https://detective-beaver.github.io/posts/five-months/</link>
+      <pubDate>Sun, 07 Feb 2021 17:42:33 +0200</pubDate>
+      
+      <guid>https://detective-beaver.github.io/posts/five-months/</guid>
+      <description>Posting the first post is like reading the first page of a new book. It’s exciting.
+It’s been almost 5 months since we submitted our PR application and got AOR. Time flies and it’s definitely giving us a hard time to overcome all the mental challenges of being apart. A family should be together. Meanwhile, the Canadian Government has been trying to formalize all the formalities to implement a new set of border restrictions due to the COVID pandemic.</description>
+    </item>
+    
+  </channel>
+</rss>
