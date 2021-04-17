@@ -12,7 +12,7 @@ tags:
 - fingerprints
 - CEC 
 ---
-*In this post I will share my experience in regards to getting the Police Clearance Certificate (PCC) from the USA while being in Ukraine.*
+*In this post I will share my experience in regards to getting the Police Clearance Certificate (PCC) (USA) while being in Ukraine.*
 
 # Background
 Before we dig into details, a bit of background on why we needed to obtain this document.
