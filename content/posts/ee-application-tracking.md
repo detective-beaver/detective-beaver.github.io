@@ -19,10 +19,28 @@ Pretty self-explanatory - the name speaks for itself. Considers to be a great pl
 These can be found even on MyImmitracker, Canadavisa and all over the internet. I won't be recommending any particular channel or group as they tend to emerge and dissappear pretty often.
 
 On the top of this, there are some official ways to get a real picture of your application's progress:
-1. IRCC Call Centre\
-System would allow only people with a Canadian phone number to call in using the following toll-free number: ```1–888–242–2100```
-1. GCMS Notes\
+1. **IRCC Call Centre**\
+System would allow only people with a Canadian phone number to call in using the following toll-free number: ```1–888–242–2100```\
+However, there is another method of reaching out to the IRCC Call Centre if you are overseas. People can call the CBSA department of [Toronto Pearson Airport](https://www.torontopearson.com/en/contact-us) and there would be an option to connect with the IRCC Call Centre:\
+```Terminal 1: (905) 676-3640```\
+```Terminal 3: (905) 612-5416```
+
+As of now, here is what you have to push once dialed:
+- 2 - connect with the IRCC Call Centre
+- 1 - PR
+- 1 - Status
+- 2 - PR applied
+- 2 - Application number starts with the E letter
+- Enter number and press pound (#)
+- Press 1 to confirm
+- Enter your Year of Birth
+- Press 1 to confirm
+- Press 1 to listen for an actual status
+- Press 0 to connect with available Agents
+
+2. **GCMS Notes**\
 They can be ordered from the IRCC [directly](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/access-information-privacy/requests-information-act.html) or via a third-party agency. If you will decide to use the last one, a special form (IMM5744) needs to be filled.
 For immigrants located in Canada the easiest and cheapest way would be to order GCMS notes from the IRCC directly. Please keep in mind that outlanders are not permited to order notes from the IRCC.
-As for the price, it is going to cost you 5 CAD one time fee.
+As for the price, it is totally free.
 According to the ATIP Act, IRCC has 30 days to fulfill a GCMS Notes request which means your notes will contain the information which is 30 days away from the moment you get them.
+For example, we ordered our notes on March, 12 and they were delivered on April, 14.
