@@ -113,7 +113,7 @@ Once you are done with filling the form, a completed fingerprint card along with
 	1000 Custer Hollow Road
 	Clarksburg, West Virginia 26306
 
-We used the DHL service and it cost us 1817 UAH. Unfortunately, an official estimated delivery timelines was one week due to pandemic and there was no any super-expedited method of delivery rather.
+We used the DHL service and it cost us 1817 UAH. Unfortunately, an official estimated delivery timelines was one week due to pandemic and there was no any super-expedited method of delivery either.
 
 # Timelines
 Fingerprints were taken on February, 16.\
